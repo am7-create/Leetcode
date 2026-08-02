@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/am7-create/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/am7-create/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/am7-create/Leetcode/tree/master/0038-count-and-say) |
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/am7-create/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/am7-create/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Binary Search
 |  |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/am7-create/Leetcode/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/am7-create/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
