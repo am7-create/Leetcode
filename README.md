@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/am7-create/Leetcode/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/am7-create/Leetcode/tree/master/0038-count-and-say) |
 ## Array
 |  |
@@ -27,6 +28,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/am7-create/Leetcode/tree/master/0013-roman-to-integer) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/am7-create/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/am7-create/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/am7-create/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
