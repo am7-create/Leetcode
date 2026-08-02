@@ -55,16 +55,19 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/am7-create/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/am7-create/Leetcode/tree/master/0100-same-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/am7-create/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/am7-create/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/am7-create/Leetcode/tree/master/0100-same-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/am7-create/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/am7-create/Leetcode/tree/master/0100-same-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/am7-create/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
@@ -78,6 +81,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/am7-create/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/am7-create/Leetcode/tree/master/0100-same-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/am7-create/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
