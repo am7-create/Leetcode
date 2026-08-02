@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/am7-create/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/am7-create/Leetcode/tree/master/0015-3sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/am7-create/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Binary Search
 |  |
@@ -25,6 +26,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/am7-create/Leetcode/tree/master/0015-3sum) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/am7-create/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/am7-create/Leetcode/tree/master/0086-partition-list) |
 ## Hash Table
@@ -47,6 +49,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/am7-create/Leetcode/tree/master/0015-3sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/am7-create/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
