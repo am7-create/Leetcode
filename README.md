@@ -53,10 +53,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/am7-create/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/am7-create/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -72,6 +74,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/am7-create/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
@@ -85,6 +88,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/am7-create/Leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Recursion
 |  |
 | ------- |
