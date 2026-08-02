@@ -17,6 +17,7 @@
 | [0018-4sum](https://github.com/am7-create/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/am7-create/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/am7-create/Leetcode/tree/master/0031-next-permutation) |
+| [0040-combination-sum-ii](https://github.com/am7-create/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/am7-create/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Binary Search
 |  |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/am7-create/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/am7-create/Leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
