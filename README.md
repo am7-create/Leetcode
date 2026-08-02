@@ -19,6 +19,7 @@
 | [0031-next-permutation](https://github.com/am7-create/Leetcode/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/am7-create/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/am7-create/Leetcode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/am7-create/Leetcode/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/am7-create/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Binary Search
 |  |
@@ -66,6 +67,7 @@
 | ------- |
 | [0015-3sum](https://github.com/am7-create/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/am7-create/Leetcode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/am7-create/Leetcode/tree/master/0056-merge-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/am7-create/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
