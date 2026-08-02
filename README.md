@@ -18,6 +18,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/am7-create/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/am7-create/Leetcode/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/am7-create/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/am7-create/Leetcode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/am7-create/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Binary Search
 |  |
@@ -95,4 +96,12 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/am7-create/Leetcode/tree/master/0040-combination-sum-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/am7-create/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/am7-create/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
