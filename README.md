@@ -16,6 +16,7 @@
 | [0015-3sum](https://github.com/am7-create/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/am7-create/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/am7-create/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/am7-create/Leetcode/tree/master/0031-next-permutation) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/am7-create/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Binary Search
 |  |
@@ -38,6 +39,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/am7-create/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/am7-create/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/am7-create/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/am7-create/Leetcode/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/am7-create/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/am7-create/Leetcode/tree/master/0086-partition-list) |
 ## Hash Table
