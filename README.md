@@ -24,10 +24,12 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/am7-create/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/am7-create/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/am7-create/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/am7-create/Leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 | [0013-roman-to-integer](https://github.com/am7-create/Leetcode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0268-missing-number](https://github.com/am7-create/Leetcode/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/am7-create/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
@@ -85,6 +88,7 @@
 | [0015-3sum](https://github.com/am7-create/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/am7-create/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/am7-create/Leetcode/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/am7-create/Leetcode/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/am7-create/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -101,6 +105,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/am7-create/Leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/am7-create/Leetcode/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -139,4 +144,8 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/am7-create/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/am7-create/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/am7-create/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
