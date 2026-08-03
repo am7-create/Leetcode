@@ -24,6 +24,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/am7-create/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0189-rotate-array](https://github.com/am7-create/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/am7-create/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/am7-create/Leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -51,6 +52,7 @@
 | [0031-next-permutation](https://github.com/am7-create/Leetcode/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/am7-create/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/am7-create/Leetcode/tree/master/0086-partition-list) |
+| [0189-rotate-array](https://github.com/am7-create/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/am7-create/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/am7-create/Leetcode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/am7-create/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/am7-create/Leetcode/tree/master/0268-missing-number) |
 ## Trie
 |  |
