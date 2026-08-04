@@ -9,6 +9,7 @@
 | [0020-valid-parentheses](https://github.com/am7-create/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/am7-create/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/am7-create/Leetcode/tree/master/0038-count-and-say) |
+| [0316-remove-duplicate-letters](https://github.com/am7-create/Leetcode/tree/master/0316-remove-duplicate-letters) |
 ## Array
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0020-valid-parentheses](https://github.com/am7-create/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/am7-create/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0316-remove-duplicate-letters](https://github.com/am7-create/Leetcode/tree/master/0316-remove-duplicate-letters) |
 ## Recursion
 |  |
 | ------- |
@@ -161,4 +163,9 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/am7-create/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0316-remove-duplicate-letters](https://github.com/am7-create/Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/am7-create/Leetcode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
