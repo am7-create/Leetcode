@@ -18,6 +18,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/am7-create/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/am7-create/Leetcode/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/am7-create/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/am7-create/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/am7-create/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/am7-create/Leetcode/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/am7-create/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -50,6 +51,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/am7-create/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/am7-create/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/am7-create/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/am7-create/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/am7-create/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/am7-create/Leetcode/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/am7-create/Leetcode/tree/master/0189-rotate-array) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/am7-create/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/am7-create/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Recursion
 |  |
@@ -143,6 +146,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/am7-create/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/am7-create/Leetcode/tree/master/0053-maximum-subarray) |
 ## Binary Search Tree
 |  |
@@ -153,4 +157,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/am7-create/Leetcode/tree/master/0268-missing-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/am7-create/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
