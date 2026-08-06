@@ -16,11 +16,12 @@ class Solution(object):
             else:
                 current.next = list2
                 list2 = list2.next
-                
+
             current = current.next
 
         if list1:
             current.next = list1
+
         else:
             current.next = list2
 
