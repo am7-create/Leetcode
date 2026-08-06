@@ -1,26 +1,23 @@
 class Solution(object):
     def compress(self, chars):
-        """
-        :type chars: List[str]
-        :rtype: int
-        """
-        n = len(chars)
-        index = 0
         i = 0
+        j = 0
+        n = len(chars)
 
-        while i < n:
-            ch = chars[i]
+        while i < n :
+            current = chars[i]
             count = 0
 
-            while i < n and chars[i] == ch:
-                count += 1
+            while i < n and chars[i] == current:
                 i += 1
+                count += 1
 
-            chars[index] = ch
-            index += 1
+            chars[j] = current
+            j += 1
 
             if count > 1:
                 for digit in str(count):
-                    chars[index] = digit
-                    index += 1
-        return index
+                    chars[j] = digit
+                    j += 1
+
+        return j
