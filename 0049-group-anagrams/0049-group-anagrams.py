@@ -1,7 +1,6 @@
 class Solution(object):
     def groupAnagrams(self, strs):
         group = {}
-
         for word in strs:
             key = "".join(sorted(word))
 
