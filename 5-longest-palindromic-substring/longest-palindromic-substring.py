@@ -1,11 +1,9 @@
 class Solution(object):
     def longestPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
-        if len(s) < 1:
+
+        if len(s) <= 1:
             return s
+
 
         start = 0
         end = 0
@@ -18,9 +16,9 @@ class Solution(object):
                 if right - left > end - start:
                     start = left
                     end = right
-
                 left -= 1
                 right += 1
+
 
             left = i
             right = i + 1
@@ -33,4 +31,7 @@ class Solution(object):
                 left -= 1
                 right += 1
 
-        return s[start:end+1]
+        return s[start : end +1 ]
+
+
+
