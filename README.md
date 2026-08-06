@@ -10,6 +10,7 @@
 | [0020-valid-parentheses](https://github.com/am7-create/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/am7-create/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/am7-create/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/am7-create/Leetcode/tree/master/0049-group-anagrams) |
 | [0316-remove-duplicate-letters](https://github.com/am7-create/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/am7-create/Leetcode/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/am7-create/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -23,6 +24,7 @@
 | [0031-next-permutation](https://github.com/am7-create/Leetcode/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/am7-create/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/am7-create/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/am7-create/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/am7-create/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/am7-create/Leetcode/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/am7-create/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/am7-create/Leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/am7-create/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0268-missing-number](https://github.com/am7-create/Leetcode/tree/master/0268-missing-number) |
@@ -99,6 +102,7 @@
 | ------- |
 | [0015-3sum](https://github.com/am7-create/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/am7-create/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/am7-create/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/am7-create/Leetcode/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/am7-create/Leetcode/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/am7-create/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
