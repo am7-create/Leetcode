@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/am7-create/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/am7-create/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/am7-create/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/am7-create/Leetcode/tree/master/0020-valid-parentheses) |
@@ -48,6 +49,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/am7-create/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/am7-create/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/am7-create/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/am7-create/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -152,6 +154,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/am7-create/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/am7-create/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/am7-create/Leetcode/tree/master/0053-maximum-subarray) |
 ## Binary Search Tree
@@ -174,4 +177,8 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/am7-create/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/am7-create/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/am7-create/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
