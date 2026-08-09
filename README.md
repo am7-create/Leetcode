@@ -52,6 +52,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/am7-create/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/am7-create/Leetcode/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/am7-create/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/am7-create/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
