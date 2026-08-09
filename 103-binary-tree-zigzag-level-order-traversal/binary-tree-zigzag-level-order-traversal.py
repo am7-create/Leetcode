@@ -12,7 +12,6 @@ class Solution(object):
         """
         if not root:
             return []
-
         queue = deque([root])
         result = []
         left_to_right = True
@@ -26,6 +25,7 @@ class Solution(object):
 
                 if node.left:
                     queue.append(node.left)
+
                 if node.right:
                     queue.append(node.right)
 
@@ -33,7 +33,6 @@ class Solution(object):
                 level.reverse()
 
             result.append(level)
-
             left_to_right = not left_to_right
 
         return result
