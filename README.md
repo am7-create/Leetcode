@@ -95,6 +95,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/am7-create/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/am7-create/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/am7-create/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -102,6 +103,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/am7-create/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/am7-create/Leetcode/tree/master/0100-same-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/am7-create/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/am7-create/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -128,6 +130,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/am7-create/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/am7-create/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/am7-create/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
@@ -175,6 +178,7 @@
 | [0005-longest-palindromic-substring](https://github.com/am7-create/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/am7-create/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/am7-create/Leetcode/tree/master/0053-maximum-subarray) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/am7-create/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -243,4 +247,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/am7-create/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/am7-create/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
