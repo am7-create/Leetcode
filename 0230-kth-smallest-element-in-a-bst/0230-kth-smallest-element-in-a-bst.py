@@ -13,7 +13,6 @@ class Solution(object):
         """
         stack = []
         current = root
-
         while True:
             while current:
                 stack.append(current)
@@ -21,7 +20,6 @@ class Solution(object):
 
             current = stack.pop()
             k -= 1
-
             if k == 0:
                 return current.val
 
