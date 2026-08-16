@@ -37,6 +37,7 @@
 | [0189-rotate-array](https://github.com/am7-create/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/am7-create/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/am7-create/Leetcode/tree/master/0283-move-zeroes) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/am7-create/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1646-get-maximum-in-generated-array](https://github.com/am7-create/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/am7-create/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
