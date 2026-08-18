@@ -153,6 +153,7 @@
 | [0013-roman-to-integer](https://github.com/am7-create/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/am7-create/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/am7-create/Leetcode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/am7-create/Leetcode/tree/master/0319-bulb-switcher) |
 ## Trie
 |  |
 | ------- |
@@ -283,4 +284,8 @@
 |  |
 | ------- |
 | [1646-get-maximum-in-generated-array](https://github.com/am7-create/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/am7-create/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
