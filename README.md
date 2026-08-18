@@ -75,6 +75,7 @@
 | [0086-partition-list](https://github.com/am7-create/Leetcode/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/am7-create/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/am7-create/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/am7-create/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/am7-create/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/am7-create/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/am7-create/Leetcode/tree/master/0443-string-compression) |
@@ -87,6 +88,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/am7-create/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/am7-create/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/am7-create/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/am7-create/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/am7-create/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/am7-create/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/am7-create/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -152,6 +154,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/am7-create/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/am7-create/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/am7-create/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/am7-create/Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/am7-create/Leetcode/tree/master/0319-bulb-switcher) |
 ## Trie
@@ -288,4 +291,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/am7-create/Leetcode/tree/master/0319-bulb-switcher) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/am7-create/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
